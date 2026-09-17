@@ -1,0 +1,10 @@
+:root{
+--radius-xs:6px;
+--radius-sm:10px;
+--radius-md:16px;
+--radius-lg:24px;
+--radius-xl:32px;
+--radius-blob:48px;      /* soft organic panel corners */
+--radius-pill:999px;     /* all buttons, chips, pills */
+--radius-circle:50%;
+}

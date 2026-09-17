@@ -1,0 +1,8 @@
+/* Power ABA webfonts.
+   SUBSTITUTION NOTICE — the brand's licensed fonts were not supplied as files.
+   Brand Bible v1.3 specifies: Titles & Headlines = "Betm Rounded Bold"; Body = "Poppy".
+   Nearest Google Fonts stand-ins are loaded here until the real files arrive:
+     Betm Rounded  ->  Baloo 2   (geometric rounded display, matching bold weight + soft terminals)
+     Poppy         ->  Poppins   (geometric humanist body sans)
+   Swap the @import below for local @font-face rules once licensed files are available. */
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap");

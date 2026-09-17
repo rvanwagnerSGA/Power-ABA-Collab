@@ -1,0 +1,89 @@
+:root{
+/* ---- Brand palette (client-approved, August 2026 — canonical) ---- */
+--brand-red:#D80602;
+--brand-coral:#E04F4D;
+--brand-indigo:#5A4FCF;
+--brand-magenta:#AB0068;
+--brand-orange:#FF6C02;
+--brand-yellow:#FEC106;
+--brand-teal:#5FCCC2;
+
+/* ---- Brand tints / shades (derived, for hover + wash use only) ---- */
+--brand-red-dark:#AE0402;
+--brand-red-wash:#FDECEB;
+--brand-coral-wash:#FCEEED;
+--brand-indigo-dark:#453BB0;
+--brand-indigo-wash:#EEEDFB;
+--brand-magenta-wash:#F7E9F1;
+--brand-orange-wash:#FFF0E4;
+--brand-yellow-wash:#FFF7E0;
+--brand-teal-wash:#E8F8F6;
+
+/* ---- Character colors (non-negotiable, Brand Bible §04) ---- */
+--poppy-skin:#FAC49C;
+--poppy-glasses:#AB0068;
+--poppy-top:#FEC106;
+--poppy-overalls:#35459D;
+--parker-skin:#C87439;
+--parker-shirt:#5A4FCF;
+--parker-jeans:#263271;
+--parker-aac:#5FCCC2;   /* AAC device casing — worn cross-body, non-negotiable */
+--pals-hair:#1E1207;
+--pals-cape:#D80602;
+
+/* ---- Power Bloom petals (fixed clockwise order from top point) ---- */
+--petal-1-courage:#FEC106;      /* Yellow  — Courage */
+--petal-2-curiosity:#FF6C02;    /* Orange  — Curiosity */
+--petal-3-kindness:#E04F4D;     /* Coral   — Kindness */
+--petal-4-calm:#5A4FCF;         /* Blue    — Calm & confidence */
+--petal-5-expression:#AB0068;   /* Purple  — Self-expression */
+--bloom-center:#D80602;
+
+/* ---- Neutrals (warm, no blue tint) ---- */
+--ink-900:#2B2523;   /* deepest text — warm charcoal */
+--ink-700:#4A4340;
+--ink-500:#7A716D;
+--ink-300:#B3ABA7;
+--ink-200:#DED8D5;
+--ink-100:#F1ECEA;
+--paper:#FFFFFF;
+--paper-warm:#FFF9F4;
+--paper-tint:#FBF8F6;
+
+/* ---- Semantic aliases ---- */
+--text-heading:var(--brand-red);
+--text-heading-alt:var(--ink-900);
+--text-body:var(--ink-700);
+--text-muted:var(--ink-500);
+--text-on-brand:#FFFFFF;
+--text-link:var(--brand-red);
+--text-link-hover:var(--brand-red-dark);
+
+--surface-page:var(--paper);
+--surface-page-warm:var(--paper-warm);
+--surface-card:#FFFFFF;
+--surface-sunken:var(--paper-tint);
+--surface-brand:var(--brand-red);
+--surface-brand-soft:var(--brand-red-wash);
+--surface-indigo:var(--brand-indigo);
+--surface-footer:var(--ink-900);
+
+--border-subtle:var(--ink-200);
+--border-strong:var(--ink-300);
+--border-brand:var(--brand-red);
+
+--action-primary:var(--brand-red);
+--action-primary-hover:var(--brand-red-dark);
+--action-secondary:var(--brand-indigo);
+--action-secondary-hover:var(--brand-indigo-dark);
+--focus-ring:var(--brand-indigo);
+
+--status-success:#2F9E7E;
+--status-success-wash:#E7F5F0;
+--status-warning:var(--brand-yellow);
+--status-warning-wash:var(--brand-yellow-wash);
+--status-error:var(--brand-red);
+--status-error-wash:var(--brand-red-wash);
+--status-info:var(--brand-indigo);
+--status-info-wash:var(--brand-indigo-wash);
+}

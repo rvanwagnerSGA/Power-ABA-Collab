@@ -1,0 +1,264 @@
+
+
+Website Design Brief
+Visual identity, voice, and character rules for the site build
+Excerpted from the Poppy &amp; Parker Brand Bible • v1.3 • August 2026
+
+Growing stronger every day.
+
+About This Brief
+This brief pulls together everything the website build needs from Power ABA’s brand system — colors, type, logo usage, character rules, voice, and accessibility standards — sized to read start to finish rather than mined out of a longer internal document.
+It’s excerpted from the full Poppy &amp; Parker Brand Bible (v1.3, Internal: Marketing &amp; Design). If a question comes up that isn’t covered here, ask and we’ll pull the relevant page.
+Everything in this brief is launch scope for the website: navigation, a resource center, service explanations, FAQs, and character guideposts built on the visual and voice rules below. One thing it is not: the “Power Pals Adventures” story hub referenced elsewhere in the brand system is a longer-term growth vision, paired with a future YouTube Kids channel — not part of this build. If anything here reads like a request for story-hub content, flag it and we’ll confirm scope together.
+What’s launch vs. future
+
+01
+Brand at a Glance
+Who this is for, and the promise every page should carry.
+
+Brand role
+Make Power ABA feel welcoming, understandable, hopeful, and memorable — supporting, not replacing, the expertise of clinicians and caregivers.
+Primary audience
+Parents and caregivers seeking practical, respectful guidance. The site should read as written to them first.
+
+Tagline
+Power ABA (organization)
+Together we unlock the potential in every child.
+Poppy &amp; Parker (The Power Pals)
+Growing stronger every day.
+Purpose
+Help children and families recognize strengths, use practical tools, and celebrate meaningful progress — one step at a time.
+
+Positioning Statement
+For families navigating learning, communication, and everyday routines, Poppy and Parker are friendly Power ABA guides who turn practical support into hopeful, memorable stories—because growth happens one meaningful step at a time.
+Positioning
+
+02
+Visual Identity
+Colors, type, and logo rules — canonical for production.
+
+Brand Colors (Client-Approved, August 2026)
+
+Color
+Hex
+Primary use
+Red
+#D80602
+Primary brand color
+Coral
+#E04F4D
+Primary brand color
+Indigo
+#5A4FCF
+Primary brand color
+Magenta
+#AB0068
+Primary brand color
+Orange
+#FF6C02
+Primary brand color
+Yellow
+#FEC106
+Primary brand color
+Teal
+#5FCCC2
+Accent
+
+Typography
+Use
+Font
+Titles &amp; Headlines
+Betm Rounded Bold
+Body Text
+Poppy
+
+Logo Usage
+Digital Materials
+
+Use for the website, social media, email, and other digital touchpoints.
+Print &amp; Apparel Materials
+
+Not typically needed on-site, included here for completeness.
+Illustration Style
+Polished 2D animation with clean linework, expressive faces, vivid but controlled color, and soft dimensional shading.
+Friendly proportions and movement without exaggerated babyish styling.
+Simple, uncluttered backgrounds — let the message carry the page, not the scene.
+The colorful flower badge is integrated into the red shield as part of the costume, never pasted over it.
+Consistent facial structure, hair, glasses, clothing, badge orientation, and relative height across every asset used on-site.
+Composition &amp; Asset Use
+Do
+Avoid
+Give the characters breathing room and a clear focal point.
+Crowding characters, text, icons, and props into one frame.
+Use clean crops that preserve faces, hands, badges, and gestures.
+Cropping through eyes, hands, badges, or important communication tools.
+Place characters beside the message rather than filling the frame.
+Making every page look like a children’s cartoon scene.
+Use simple backgrounds so the message stays legible.
+Busy patterns or sensory-heavy backgrounds that compete with the message.
+Maintain consistent lighting, linework, proportions, and color.
+Mixing unrelated illustration styles on the same page.
+
+03
+Character Visual Rules
+Poppy and Parker, kept consistent everywhere they appear on-site.
+
+Poppy
+Curious, creative, expressive, optimistic. Verbal.
+Signature phrase: “Let’s find another way!”
+Parker
+Thoughtful, patient, determined. Non-verbal, communicates through an AAC device.
+Signature line (AAC device): “One step at a time!”
+
+Visual Character Anchors
+Character
+Non-negotiable visual cues
+Flexible elements
+Poppy
+Dark pigtails, purple glasses, warm smile, yellow top, denim overalls, red cape, white sneakers with magenta accents, Power ABA Flower Logo Icon badge.
+Pose, setting, facial expression, seasonal accessories, activity props.
+Parker
+Short curly hair, warm smile, indigo shirt, denim jeans, red cape, AAC communication device (worn cross-body), white sneakers with red accents, Power ABA Flower Logo Icon badge.
+Pose, setting, facial expression, seasonal accessories, activity props.
+
+Character Color Specifications
+Poppy
+
+Feature
+Hex
+Skin tone
+#FAC49C
+Dark pigtails
+#1E1207
+Purple glasses
+#AB0068
+Yellow top
+#FEC106
+Denim overalls
+#35459D
+Red cape
+#D80602
+Sneakers (white + accent)
+#AB0068
+
+Parker
+
+Feature
+Hex
+Skin tone
+#C87439
+Curly hair
+#1E1207
+Shirt
+#5A4FCF
+Denim jeans
+#263271
+Red cape
+#D80602
+AAC device casing
+#5FCCC2
+Sneakers (white + accent)
+#D80602
+
+The Power Bloom
+The flower badge both characters wear. If it appears on-site — as an icon, a loading animation, a section marker — the petal order is locked and should never be redrawn or rearranged: clockwise from the top point, Yellow, Orange, Coral, Blue, Purple.
+
+Petal color
+Meaning
+Yellow
+Courage
+Orange
+Curiosity
+Coral red
+Kindness
+Blue
+Calm and confidence
+Purple
+Self-expression
+
+The Power Bloom is a brand symbol. It should remain recognizable at small sizes and never be redrawn differently from one place to the next — same rule applies whether it shows up in a social post or a website favicon.
+Production note
+
+04
+Voice &amp; Messaging
+How the site should sound, and what it should say.
+
+Brand Voice
+Always sound
+Warm, encouraging, plainspoken, patient, respectful, practical, hopeful, and strengths-based.
+Never sound
+Shaming, patronizing, overly cute, clinical without explanation, alarmist, absolute, or focused on “fixing” a child.
+
+Message Hierarchy
+Level
+Message
+Power ABA tagline (organization)
+Together we unlock the potential in every child.
+Power Pals tagline (Poppy &amp; Parker)
+Growing stronger every day.
+Core belief
+Every step matters.
+Team close
+We’re growing stronger every day!
+Caregiver reassurance
+You do not have to solve everything today.
+
+Tone by Audience
+Audience
+Tone adjustment
+Example opening
+Caregivers (primary site audience)
+Supportive, specific, practical, never blaming.
+“A schedule change can feel easier when a child knows what will stay the same.”
+Community partners
+Accessible, confident, mission-centered.
+“Power ABA helps families build meaningful skills through individualized support.”
+
+For the Website Specifically
+Best use of the characters
+Welcome, navigation, resource center, service explanations, and family onboarding — as guideposts, not decoration on every page.
+Recommended formats
+Character guideposts, resource center, story hub (see note below), FAQs.
+
+Tone
+Trustworthy and accessible.
+Note
+The “story hub” above is future scope — see What&apos;s Launch vs. Future at the front of this brief. Everything else in this row is launch-ready.
+
+05
+Accessibility Standards
+Not optional, and not brand flavor — build to this spec.
+
+Area
+Standard
+Captions
+Caption all spoken audio; edit auto-captions for accuracy.
+Contrast
+Use high-contrast text and do not rely on color alone to communicate meaning.
+Motion
+Avoid rapid flashing, unnecessary motion, and overstimulating transitions.
+Text
+Use readable type sizes, short paragraphs, descriptive headings, and plain language.
+Images
+Write meaningful alt text that describes the purpose of the image.
+Audio
+Keep music below speech and avoid sudden loud effects.
+Downloads
+Create accessible PDFs and printables with logical reading order and labels.
+
+Before publishing anything that collects information from children or links to child-directed video, review current platform rules and applicable legal requirements with qualified counsel and compliance leadership.
+Review reminder
+
+Quick Reference
+Brand
+Poppy &amp; Parker — The Power Pals, for Power ABA Therapy
+Tagline
+Power ABA: “Together we unlock the potential in every child.”  |  Poppy &amp; Parker: “Growing stronger every day.”
+Primary color
+Red #D80602 — full palette in Visual Identity, above
+Team close
+“We’re growing stronger every day!”
+Launch scope
+Navigation, resource center, service explanations, FAQs, character guideposts. Not the story hub.
+
+Questions on anything not covered here? Ask and we’ll pull the relevant page from the full Brand Bible.

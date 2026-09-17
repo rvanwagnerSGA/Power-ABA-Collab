@@ -1,0 +1,23 @@
+<!-- @dsCard group="Components" viewport="700x520" name="Marketing" subtitle="Section headings, feature cards, steps, quotes, CTA bands" -->
+<!DOCTYPE html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../../styles.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script>
+<style>body{padding:24px;background:var(--paper-warm)}.stack{display:flex;flex-direction:column;gap:28px}.cols{display:grid;grid-template-columns:1fr 1fr;gap:20px}</style>
+</head><body><div id="root"></div>
+<script type="text/babel">
+const { SectionHeading, FeatureCard, StepItem, QuoteCard, CTABand } = window.PowerABADesignSystem_870410;
+function Demo(){return <div className="stack">
+<SectionHeading eyebrow="Support that grows with your child" title="More Than Care." accent="Skills for Everyday Life." lead="Power Prep gives families flexible options throughout the day while creating a consistent environment for communication, independence, and school-readiness."/>
+<div className="cols">
+<FeatureCard icon="messages-square" tone="indigo" title="Communication">Building expressive and receptive language, conversation skills, and functional communication.</FeatureCard>
+<FeatureCard icon="users" tone="orange" title="Social Development">Helping children build friendships, share, take turns, and engage with confidence.</FeatureCard></div>
+<div className="cols">
+<div><StepItem number={1} tone="red" title="Reach Out">Call us or complete our online form and tell us a little about your child.</StepItem>
+<StepItem number={2} tone="indigo" title="Talk With Our Team" last>We'll answer questions and help determine the best fit.</StepItem></div>
+<QuoteCard tone="warm" quote="Courage can look like asking for help." attribution="Power Bloom Friday" basePath="../.."/></div>
+<CTABand tone="red" title="Together, we unlock the power within every child." lead="Questions? Start with a conversation." primaryLabel="Call 1-855-376-5020" secondaryLabel="Request Info"/>
+</div>}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo/>);
+</script></body></html>

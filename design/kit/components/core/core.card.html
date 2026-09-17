@@ -1,0 +1,36 @@
+<!-- @dsCard group="Components" viewport="700x420" name="Core" subtitle="Buttons, icon buttons, badges, tags, cards, avatars" -->
+<!DOCTYPE html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../../styles.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script>
+<style>body{padding:24px;background:var(--paper-warm)}.row{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin-bottom:16px}.lbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);font-weight:600;width:100%;margin-bottom:2px}</style>
+</head><body><div id="root"></div>
+<script type="text/babel">
+const { Button, IconButton, Badge, Tag, Card, Avatar } = window.PowerABADesignSystem_870410;
+function Demo(){return <div>
+<div className="row"><span className="lbl">Button variants — lg</span>
+<Button size="lg">Get Started Today</Button>
+<Button size="lg" variant="outline">Learn More</Button>
+<Button size="lg" variant="secondary" iconAfter="arrow-right">Our Programs</Button>
+<Button size="lg" variant="ghost">Skip</Button></div>
+<div className="row"><span className="lbl">Sizes, icons, states</span>
+<Button size="sm" icon="phone">Call</Button>
+<Button size="md" icon="download">Download</Button>
+<Button size="md" disabled>Disabled</Button>
+<IconButton icon="phone" label="Call" variant="primary"/>
+<IconButton icon="mail" label="Email" variant="soft"/>
+<IconButton icon="chevron-right" label="Next" variant="outline"/></div>
+<div className="row"><span className="lbl">Badges &amp; tags</span>
+<Badge tone="red">Early Intervention</Badge><Badge tone="indigo">Power Prep</Badge>
+<Badge tone="teal" icon="check">Insurance Accepted</Badge><Badge tone="yellow">New</Badge>
+<Badge tone="magenta" solid>Now Enrolling</Badge>
+<Tag icon="filter" active>Communication</Tag><Tag onRemove={()=>{}}>Social</Tag></div>
+<div className="row"><span className="lbl">Cards &amp; avatars</span>
+<Card style={{width:190}} hoverable><b style={{color:'var(--ink-900)'}}>Plain</b><div style={{fontSize:13,color:'var(--text-muted)'}}>White + hairline</div></Card>
+<Card tone="indigo" style={{width:170}}><b style={{color:'var(--brand-indigo)'}}>Indigo wash</b></Card>
+<Card tone="solid" style={{width:150}}><b>Solid red</b></Card>
+<Avatar name="Maria Ortiz" ring="brand"/><Avatar name="Devon Pratt" size={48} ring="parker"/></div>
+</div>}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo/>);
+</script></body></html>

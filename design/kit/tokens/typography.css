@@ -1,0 +1,33 @@
+:root{
+/* Families — see tokens/fonts.css for the substitution notice */
+--font-display:"Baloo 2","Betm Rounded",system-ui,sans-serif;   /* titles & headlines */
+--font-body:"Poppins","Poppy",system-ui,sans-serif;             /* body copy, UI */
+--font-mono:ui-monospace,"SFMono-Regular",Menlo,monospace;      /* code/spec only */
+
+/* Weights */
+--weight-body:400;/* @kind font */
+--weight-medium:500;/* @kind font */
+--weight-semibold:600;/* @kind font */
+--weight-bold:700;/* @kind font */
+--weight-display:800;/* @kind font */
+
+/* Display scale (Baloo 2 / Betm Rounded, tight leading) */
+--size-display-1:76px;  --lh-display-1:1.02;/* @kind other */
+--size-display-2:58px;  --lh-display-2:1.06;/* @kind other */
+--size-h1:44px;         --lh-h1:1.12;/* @kind other */
+--size-h2:34px;         --lh-h2:1.18;/* @kind other */
+--size-h3:26px;         --lh-h3:1.24;/* @kind other */
+--size-h4:20px;         --lh-h4:1.3;/* @kind other */
+
+/* Body scale (Poppins / Poppy) */
+--size-lead:20px;       --lh-lead:1.6;/* @kind other */
+--size-body:16px;       --lh-body:1.7;/* @kind other */
+--size-small:14px;      --lh-small:1.6;/* @kind other */
+--size-caption:12px;    --lh-caption:1.45;/* @kind other */
+
+/* Eyebrow / label */
+--size-eyebrow:13px;
+--tracking-eyebrow:0.14em;/* @kind other */
+--tracking-display:-0.01em;/* @kind other */
+--tracking-body:0em;/* @kind other */
+}
